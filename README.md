@@ -33,7 +33,7 @@ To choose which information is shown, click on 'Filters and more'.
 
 ## Report menu
 
-!(Report menu)[https://i.imgur.com/ByF1L1O.png]
+![Report menu](https://i.imgur.com/ByF1L1O.png)
 
 ## Save report
 
@@ -59,3 +59,5 @@ You can use the download button to export to Excel.
 
 **Milestone:** umbrella categories that group several process stages together
 
+
+18:20
