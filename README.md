@@ -25,10 +25,13 @@ Data you can use to build reports:
 
 From the Ribbon at the top > Reports
 
-There are some default reports that you can generate automatically.
+There are some default reports that you can generate automatically. You can find them under **Essential Reports**.
 
 To choose which information is shown, click on 'Filters and more'.
+
 - **Good practice**: remove template jobs by unchecking 'include template jobs', if applicable
+
+
 
 ## Dictionary
 
