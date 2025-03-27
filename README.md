@@ -21,8 +21,16 @@ Data you can use to build reports:
 - At the Opening level
 - At the User level
 
-## Data Structure
+## Generate report
 
-## Navigating Reports
+From the Ribbon at the top > Reports
 
-## Report Examples
+There are some default reports that you can generate automatically.
+
+To choose which information is shown, click on 'Filters and more'.
+- **Good practice**: remove template jobs by unchecking 'include template jobs', if applicable
+
+## Dictionary
+
+**Milestone:** umbrella categories that group several process stages together
+
