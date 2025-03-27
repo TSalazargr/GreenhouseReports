@@ -10,8 +10,16 @@
 ## Data Model
 
 Data you can use to build reports:
-- At the candidate level
-- At an application level
+
+- At the Candidate level
+- At an Application level
+  - Source
+- At the Offer level
+- At the Job level
+- At the Department level
+- At the Office level
+- At the Opening level
+- At the User level
 
 ## Data Structure
 
