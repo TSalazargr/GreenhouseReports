@@ -59,5 +59,3 @@ You can use the download button to export to Excel.
 
 **Milestone:** umbrella categories that group several process stages together
 
-
-18:20
