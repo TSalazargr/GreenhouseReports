@@ -66,7 +66,7 @@ Then use Add widget to add them to the dashboard. You can add two types of widge
 - From essential library
 - Custom widget
 
-After adding the widget you can resize it, move it, or clone/edit/download as PNG it (the last option by clickin on the three dots that appear when you hoover over the widget.
+After adding the widget you can resize it, move it, or **clone/edit/download as PNG** it (the last option by clickin on the three dots that appear when you hoover over the widget.
 
 
 ## Widget From Essential Library
@@ -78,6 +78,12 @@ You can also use this option to insert **custom reports** that you've built on t
 To do so, click Add Widget > Custom Widget > Rerpots > Report Builder Table > Select from the **Saved custom reports** drop down menu > Add widget
 
 ## Custom Widget
+
+Add widget > Custom Widget > Select type of data you want to report on
+
+There are template reports as well. You can select one from Template > Customize
+
+Once you're done customizing it, click 'Add Widget'
 
 ## Dictionary
 
