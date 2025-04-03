@@ -85,6 +85,10 @@ There are template reports as well. You can select one from Template > Customize
 
 Once you're done customizing it, click 'Add Widget'
 
+## Share Custom Widget
+
+You can share it by email by clicking 'Share' or download as a PNG from the three dots on the top right corner > Download as PNG
+
 ## Dictionary
 
 **Milestone:** umbrella categories that group several process stages together
