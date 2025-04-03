@@ -55,6 +55,30 @@ You can schedule the sending of an email with a certain frequency.
 
 You can use the download button to export to Excel.
 
+# Custom reports dashboards
+
+To access it, go to Reports > Create > Custom dashboard
+
+[Reports Create](https://i.imgur.com/Nnn7CYL.png)
+
+Then use Add widget to add them to the dashboard. You can add two types of widgets:
+
+- From essential library
+- Custom widget
+
+After adding the widget you can resize it, move it, or clone/edit/download as PNG it (the last option by clickin on the three dots that appear when you hoover over the widget.
+
+
+## Widget From Essential Library
+
+Use the menu to filter information as necessary, then click Add widget.
+
+You can also use this option to insert **custom reports** that you've built on the **report builder**.
+
+To do so, click Add Widget > Custom Widget > Rerpots > Report Builder Table > Select from the **Saved custom reports** drop down menu > Add widget
+
+## Custom Widget
+
 ## Dictionary
 
 **Milestone:** umbrella categories that group several process stages together
