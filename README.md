@@ -89,7 +89,13 @@ Once you're done customizing it, click 'Add Widget'
 
 You can share it by email by clicking 'Share' or download as a PNG from the three dots on the top right corner > Download as PNG
 
-## Dictionary
+# Report Builder
+
+To access it, click Reports > Create > Build a report
+
+
+
+# Dictionary
 
 **Milestone:** umbrella categories that group several process stages together
 
