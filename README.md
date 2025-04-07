@@ -59,7 +59,7 @@ You can use the download button to export to Excel.
 
 To access it, go to Reports > Create > Custom dashboard
 
-[Reports Create](https://i.imgur.com/Nnn7CYL.png)
+![Reports Create](https://i.imgur.com/Nnn7CYL.png)
 
 Then use Add widget to add them to the dashboard. You can add two types of widgets:
 
